@@ -1,7 +1,6 @@
 # Artificial-Intelligence-Coursework
-Artificial Intelligence Coursework
 Repository for the Artificial Intelligence Coursework analyzing the California Housing Dataset and the UCI HAR Dataset (Human Activity Recognition Using Smartphones).
-Setup Instructions:
+# Setup Instructions:
 Dataset Preparation:
 Download the UCI HAR Dataset and place it in the project root directory so the path becomes:
 Artificial-Intelligence-Coursework/UCI HAR Dataset/
