@@ -8,16 +8,15 @@ Artificial-Intelligence-Coursework/UCI HAR Dataset/
 ## Path Configuration:
 In the code, replace the absolute path:
 /Users/ahmed/Desktop/Artificial-Intelligence-Coursework/UCI HAR Dataset
-with a relative path:
+with the the relative path:
 .Artificial-Intelligence-Coursework/UCI HAR Dataset/
 (and modify the front part of path depending on where you have cloned/downloaded the repository)
 
 For the code to work, please ensure the the following libaries are installed:
->numpy
->pandas
->scikit-learn
+>numpy,
+>pandas,
+>scikit-learn,
 >matplotlib
-
 
 ## Key Notes:
 
