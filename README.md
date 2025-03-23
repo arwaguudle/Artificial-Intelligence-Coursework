@@ -1,5 +1,7 @@
 # Artificial-Intelligence-Coursework
 Repository for the Artificial Intelligence Coursework analyzing the California Housing Dataset and the UCI HAR Dataset (Human Activity Recognition Using Smartphones).
+
+The following codes made for the coursework are: "Linear Regression.ipynb" and "SVM.ipynb"
 # Setup Instructions:
 ## Dataset Preparation:
 Download the UCI HAR Dataset and place it in the project root directory so the path becomes:
